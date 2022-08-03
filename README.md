@@ -1,2 +1,1 @@
-# portfolio-site-elementor
-This is a sample portfolio site developed with elementor
+<strong> NOTE: Run XAMPP/WAMP/LAMPP before accessing the website! </strong>
